@@ -1,0 +1,7 @@
+{
+  "name": "InsightFlow - User Research Copilot",
+  "description": "一款面向用户研究人员的专业AI工具，用于自动化录音分析、问卷生成和报告综合。",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
